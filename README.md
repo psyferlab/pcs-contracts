@@ -1,9 +1,9 @@
 # pcs-contracts
 
-+------------------------------------------------------------------------------------+
-|  🚀 Digital Punch Card System - Smart Contract Management Interface               |
-+------------------------------------------------------------------------------------+
-| User: AdminUser123                               | 📈 Usage Stats | 🔔 Notifications  |
+ +------------------------------------------------------------------------------------+
+ |  🚀 Digital Punch Card System - Smart Contract Management Interface               |
+ +------------------------------------------------------------------------------------+
+ | User: AdminUser123                               | 📈 Usage Stats | 🔔 Notifications  |
 |------------------------------------------------------------------------------------|
 | GRID VIEW:                                         | Recent Activity:               |
 |                                                     | - ContractFunc A executed      |
